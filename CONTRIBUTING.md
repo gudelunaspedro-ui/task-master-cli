@@ -1,70 +1,70 @@
-# 🤝 Contributing to Task Master CLI
+# Contribuindo para Task Master CLI
 
-Thank you for your interest in contributing! This project is designed as a learning exercise.
+Obrigado pelo interesse em contribuir! Este projeto é um exercício de aprendizado.
 
-## 📝 Exercise Checklist
+## Checklist de Exercícios
 
-Complete these tasks to master the project:
+Complete estas tarefas para dominar o projeto:
 
-### Phase 1: Core Functionality ✨
-- [ ] Test all CLI commands (add, list, delete, complete)
-- [ ] Verify data persistence works correctly
-- [ ] Test error handling for invalid inputs
-- [ ] Document any bugs found
+### Fase 1: Funcionalidade Principal
+- [ ] Testar todos os comandos CLI (add, list, delete, complete)
+- [ ] Verificar se a persistência de dados funciona corretamente
+- [ ] Testar tratamento de erros para entradas inválidas
+- [ ] Documentar qualquer bug encontrado
 
-### Phase 2: Enhancement 🚀
-- [ ] Add a `help` command for each task type
-- [ ] Implement `update` command to modify existing tasks
-- [ ] Add date-based filtering (--today, --week)
-- [ ] Implement task duplication detection
+### Fase 2: Melhorias
+- [ ] Adicionar comando `help` para cada tipo de tarefa
+- [ ] Implementar comando `update` para modificar tarefas existentes
+- [ ] Adicionar filtragem por data (--today, --week)
+- [ ] Implementar detecção de duplicação de tarefas
 
-### Phase 3: Advanced Features 🎯
-- [ ] Add persistence to a database instead of JSON
-- [ ] Implement task reminders/notifications
-- [ ] Add filtering by multiple criteria
-- [ ] Create a web UI for the CLI
+### Fase 3: Funcionalidades Avançadas
+- [ ] Adicionar persistência em banco de dados em vez de JSON
+- [ ] Implementar lembretes/notificações de tarefas
+- [ ] Adicionar filtragem por múltiplos critérios
+- [ ] Criar interface web para o CLI
 
-### Phase 4: Testing & Docs 📚
-- [ ] Write comprehensive unit tests
-- [ ] Add integration tests
-- [ ] Create API documentation
-- [ ] Add examples for all features
+### Fase 4: Testes e Documentação
+- [ ] Escrever testes unitários abrangentes
+- [ ] Adicionar testes de integração
+- [ ] Criar documentação de API
+- [ ] Adicionar exemplos para todos os recursos
 
-## 🐛 Reporting Issues
+## Relatando Problemas
 
-Found a bug? Create an issue with:
-1. Description of the problem
-2. Steps to reproduce
-3. Expected vs actual behavior
-4. Your environment (Node.js version, OS)
+Encontrou um bug? Crie uma issue com:
+1. Descrição do problema
+2. Passos para reproduzir
+3. Comportamento esperado vs real
+4. Seu ambiente (versão Node.js, SO)
 
-## 💡 Suggestions
+## Sugestões
 
-Have ideas? Open a discussion or issue with the `enhancement` label!
+Tem ideias? Abra uma discussão ou issue com a label `enhancement`!
 
-## 📦 Git Workflow
+## Fluxo Git
 
-1. Create a feature branch: `git checkout -b feature/your-feature`
-2. Make your changes
-3. Commit with clear messages: `git commit -m "Add: your feature description"`
-4. Push: `git push origin feature/your-feature`
-5. Create a Pull Request
+1. Criar branch de feature: `git checkout -b feature/sua-feature`
+2. Fazer suas alterações
+3. Fazer commit com mensagens claras: `git commit -m "Add: descrição da sua feature"`
+4. Push: `git push origin feature/sua-feature`
+5. Criar um Pull Request
 
-## 🎓 Learning Goals
+## Objetivos de Aprendizado
 
-Through this project, you'll learn:
-- ✅ Git fundamentals (clone, add, commit, push, pull, branches)
-- ✅ Node.js CLI development
-- ✅ File system operations (fs module)
-- ✅ JSON data handling
-- ✅ Error handling and validation
-- ✅ Testing in Node.js
-- ✅ Open source contribution workflows
+Através deste projeto, você aprenderá:
+- Git fundamentals (clone, add, commit, push, pull, branches)
+- Desenvolvimento de CLI com Node.js
+- Operações do sistema de arquivos (módulo fs)
+- Manipulação de dados JSON
+- Tratamento e validação de erros
+- Testes em Node.js
+- Fluxos de trabalho de contribuição open source
 
-## 📚 Resources
+## Recursos
 
-- [Node.js Documentation](https://nodejs.org/docs/)
-- [Git Tutorial](https://git-scm.com/book/en/v2)
-- [CLI Best Practices](https://clig.dev/)
+- [Documentação Node.js](https://nodejs.org/docs/)
+- [Tutorial Git](https://git-scm.com/book/en/v2)
+- [Boas Práticas de CLI](https://clig.dev/)
 
-Happy coding! 🚀
+Bom coding!
